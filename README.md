@@ -1,5 +1,4 @@
-# pytail
-PyTAIL - Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data
+# PyTAIL - Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data
 
 PyTAIL is a successor of the Java Library called [SAIL: Sentiment Analysis and Incremental Learning](https://github.com/uiuc-ischool-scanr/SAIL)
 
